@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CharacterTiles
+  m_EditorClassIdentifier: 
+  m_GroupName: CharacterTiles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ca5f587cfd201f644b3bdc12c3381da6
+  m_SerializeEntries:
+  - m_GUID: 00162bdd4ffff734a98c2e6c14b11dd1
+    m_Address: Iroh1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 00162bdd4ffff734a98c2e6c14b11dd1, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 00162bdd4ffff734a98c2e6c14b11dd1, type: 3}
+  - m_GUID: 10d38341f945a5a4e83c8192e7a9ab15
+    m_Address: Toph1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 10d38341f945a5a4e83c8192e7a9ab15, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 10d38341f945a5a4e83c8192e7a9ab15, type: 3}
+  - m_GUID: 23997fb73c94c0d4cb972f34b86a8bbe
+    m_Address: Iroh2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 23997fb73c94c0d4cb972f34b86a8bbe, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 23997fb73c94c0d4cb972f34b86a8bbe, type: 3}
+  - m_GUID: 3b681c2299054cf4ca82f376cecc40b8
+    m_Address: Gyatso2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 3b681c2299054cf4ca82f376cecc40b8, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 3b681c2299054cf4ca82f376cecc40b8, type: 3}
+  - m_GUID: 4c3b0bc56d874304688eef4e6a9db2b5
+    m_Address: Pakku2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 4c3b0bc56d874304688eef4e6a9db2b5, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4c3b0bc56d874304688eef4e6a9db2b5, type: 3}
+  - m_GUID: 62b1cb7a9a1881f4e8e1ebc297d15a68
+    m_Address: Toph2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 62b1cb7a9a1881f4e8e1ebc297d15a68, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 62b1cb7a9a1881f4e8e1ebc297d15a68, type: 3}
+  - m_GUID: 6996799d170f7a447b583fa6a3cac34e
+    m_Address: Aang2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 6996799d170f7a447b583fa6a3cac34e, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6996799d170f7a447b583fa6a3cac34e, type: 3}
+  - m_GUID: 6f0c4c3ca032a1a42b3a37264c6e9121
+    m_Address: Zuko1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 6f0c4c3ca032a1a42b3a37264c6e9121, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6f0c4c3ca032a1a42b3a37264c6e9121, type: 3}
+  - m_GUID: 73a163ed98b3fc440ad3960b1da8f206
+    m_Address: Katara1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 73a163ed98b3fc440ad3960b1da8f206, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 73a163ed98b3fc440ad3960b1da8f206, type: 3}
+  - m_GUID: 75ee3c9895fc2094ab4323e247bf87fa
+    m_Address: Pakku1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 75ee3c9895fc2094ab4323e247bf87fa, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 75ee3c9895fc2094ab4323e247bf87fa, type: 3}
+  - m_GUID: 77d73b8cd3a12534987d80de116410db
+    m_Address: Zuko2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 77d73b8cd3a12534987d80de116410db, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 77d73b8cd3a12534987d80de116410db, type: 3}
+  - m_GUID: 7e55eed05227fea479f2935b325533ce
+    m_Address: Bumi2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: 7e55eed05227fea479f2935b325533ce, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 7e55eed05227fea479f2935b325533ce, type: 3}
+  - m_GUID: b86db7238ffc09e43bd19801bf8c3763
+    m_Address: Bumi1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: b86db7238ffc09e43bd19801bf8c3763, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: b86db7238ffc09e43bd19801bf8c3763, type: 3}
+  - m_GUID: cbec45f8b9675344f91cf258e3a4d1b6
+    m_Address: Katara2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: cbec45f8b9675344f91cf258e3a4d1b6, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: cbec45f8b9675344f91cf258e3a4d1b6, type: 3}
+  - m_GUID: cfd08e7de7c3a38479525e019765d6c2
+    m_Address: Gyatso1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: cfd08e7de7c3a38479525e019765d6c2, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: cfd08e7de7c3a38479525e019765d6c2, type: 3}
+  - m_GUID: ecbb1291f73dc5540b2e0259cba68e60
+    m_Address: Aang1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CharacterTile
+    m_MainAsset: {fileID: 2800000, guid: ecbb1291f73dc5540b2e0259cba68e60, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ecbb1291f73dc5540b2e0259cba68e60, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a1c99282af00d124f88e66ddb046c82d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9d01f5b4629cda841b59d0ff46b06beb, type: 2}
+    - {fileID: 11400000, guid: f93e078c94528d84a9868968d0c5d4db, type: 2}

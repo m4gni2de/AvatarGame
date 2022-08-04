@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AccentTiles
+  m_EditorClassIdentifier: 
+  m_GroupName: AccentTiles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 73fb5ee8199a70443b68a595591f2a2d
+  m_SerializeEntries:
+  - m_GUID: 058968053c0829d4ca7984f78595d05b
+    m_Address: Rock1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 058968053c0829d4ca7984f78595d05b, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 058968053c0829d4ca7984f78595d05b, type: 3}
+  - m_GUID: 11c1205717eb47f48ad97a853b6b695d
+    m_Address: Bear2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 11c1205717eb47f48ad97a853b6b695d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 11c1205717eb47f48ad97a853b6b695d, type: 3}
+  - m_GUID: 14169ddab91d07a4497711b164a1b95c
+    m_Address: Wheel2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 14169ddab91d07a4497711b164a1b95c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 14169ddab91d07a4497711b164a1b95c, type: 3}
+  - m_GUID: 14591a72322d7a94c9e9d783a317b535
+    m_Address: Lotus2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 14591a72322d7a94c9e9d783a317b535, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 14591a72322d7a94c9e9d783a317b535, type: 3}
+  - m_GUID: 28ce7579ba5e503419a748a87798c5a5
+    m_Address: Bear1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 28ce7579ba5e503419a748a87798c5a5, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 28ce7579ba5e503419a748a87798c5a5, type: 3}
+  - m_GUID: 61dd0aee1fa488a48b5f135b1e0979c2
+    m_Address: Bridge2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 61dd0aee1fa488a48b5f135b1e0979c2, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 61dd0aee1fa488a48b5f135b1e0979c2, type: 3}
+  - m_GUID: 6b5bb332929e03a43850a6dfb490219e
+    m_Address: Boil1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 6b5bb332929e03a43850a6dfb490219e, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6b5bb332929e03a43850a6dfb490219e, type: 3}
+  - m_GUID: 947a451089bfdf448a5189f4a9194367
+    m_Address: Lotus1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 947a451089bfdf448a5189f4a9194367, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 947a451089bfdf448a5189f4a9194367, type: 3}
+  - m_GUID: 97ecef483bee76d4081f01ab7b91dd36
+    m_Address: Rock2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: 97ecef483bee76d4081f01ab7b91dd36, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 97ecef483bee76d4081f01ab7b91dd36, type: 3}
+  - m_GUID: ba65d87d92b5cbc4e9fe0575ba263771
+    m_Address: Bridge1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: ba65d87d92b5cbc4e9fe0575ba263771, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ba65d87d92b5cbc4e9fe0575ba263771, type: 3}
+  - m_GUID: be6a20279f8aed9469c96e3e2049f48f
+    m_Address: Boil2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: be6a20279f8aed9469c96e3e2049f48f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: be6a20279f8aed9469c96e3e2049f48f, type: 3}
+  - m_GUID: fafba5a343db0364da37962b9f6642d3
+    m_Address: Wheel1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accent
+    m_MainAsset: {fileID: 2800000, guid: fafba5a343db0364da37962b9f6642d3, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: fafba5a343db0364da37962b9f6642d3, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a1c99282af00d124f88e66ddb046c82d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cad2b400a71820740a3895bdc4a08ebc, type: 2}
+    - {fileID: 11400000, guid: 755796a9a5957904b933e94ac5857394, type: 2}
